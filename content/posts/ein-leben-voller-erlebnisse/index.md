@@ -34,6 +34,8 @@ Es geschah organisch. Ich passte mich an und suchte nach neuen Möglichkeiten, u
 **Hatten Sie jemals einen schwierigen Chef, und wenn ja, wie?** \
 In Amerika hatte ich nie wirklich schwierige Chefs. In der Schweiz stieß ich jedoch auf Herausforderungen, insbesondere in den 80er und 90er Jahren. Viele hatten wenig Erfahrung im Umgang mit internationalen Mitarbeitern, und Regeln und Vorschriften wurden oft nicht gut erklärt. Manche hatten ein Kontrollproblem, was für mich, als Freigeist aus Amerika, schwierig war. Ich versuchte, mich zu verbessern, indem ich den Job wechselte oder meinen Master in Zürich machte. Dennoch war die Schweiz nicht das Land der Möglichkeiten.
 
+![Ein paar Souvenirs aus der ganzen Welt.](img_0632.jpeg)
+
 **Hatte er oder sie einen Einfluss auf Ihre Identität oder Ihr Verhalten in der Schweiz?**\
 Meine Identität wurde durch meine Jobs in der Schweiz nicht stark beeinflusst, aber mein Verhalten schon. Zwischen 1986 und 2016 arbeitete ich in verschiedenen Positionen und gründete zwei Tochtergesellschaften. Diese Jobs gaben mir mehr Freiheit und die Möglichkeit, meine Teams auszuwählen. Projektmanagement war eine meiner Stärken. Im Jahr 2010 erlitt ich jedoch ein schweres Burnout, was mein Verhalten und meine Herangehensweise an die Arbeit veränderte. Obwohl ich mich erholte und weiterarbeiten konnte, blieben viele Rückstände und Unzufriedenheiten bestehen.
 
@@ -49,6 +51,4 @@ Ich habe einen Bachelor-Abschluss in wissenschaftlicher Ausbildung, was mir erm�
 **Welche Hobbys und Sportarten haben Sie ausgeübt?**\
 Ich habe eine starke kreative Energie und habe mich vor allem der Musik gewidmet, neue Instrumente ausprobiert und Gottesdienste in verschiedenen Kirchen geleitet. Neben der Musik habe ich Chilischoten angebaut und Würstchen hergestellt. Ich habe auch Laserschnitt und -gravur betrieben und mich mit Drohnenprojekten beschäftigt. Sportlich habe ich in den USA Baseball und Tennis gespielt und später in Bern ein Baseballteam trainiert. Andere Sportarten wie Skifahren, Segeln, Jagen oder Fischen habe ich in der Schweiz nicht ausgeübt.
 
-![](img_0631.jpeg)
-
-![]()
+![Gerald Jackson in seinem Büro, welches er mit Andenken geschmükt hat.](img_0631.jpeg)
