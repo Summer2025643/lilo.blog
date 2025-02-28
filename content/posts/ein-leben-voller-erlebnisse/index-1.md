@@ -20,7 +20,7 @@ Gerald Jackson, mein Grossvater, wurde im Jahr 1953 in America geboren und fing 
 * Hatte über 34 Berufe
 * Schwierige Kindheit
 
-{{<box>}}
+{{</box>}}
 
 **Was war Ihr erster Job?** \
 Mein erster Job war mit 19 Jahren bei der United States Air Force während des Vietnamkrieges. Ich diente hauptsächlich in Deutschland und New Mexico als Facharzt für Sanitätsdienst. Danach ging ich zur Universität in Ohio und studierte dort fünf Jahre lang.
