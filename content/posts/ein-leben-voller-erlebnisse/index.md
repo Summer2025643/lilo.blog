@@ -49,6 +49,6 @@ Ich habe einen Bachelor-Abschluss in wissenschaftlicher Ausbildung, was mir erm�
 **Welche Hobbys und Sportarten haben Sie ausge체bt?**\
 Ich habe eine starke kreative Energie und habe mich vor allem der Musik gewidmet, neue Instrumente ausprobiert und Gottesdienste in verschiedenen Kirchen geleitet. Neben der Musik habe ich Chilischoten angebaut und W체rstchen hergestellt. Ich habe auch Laserschnitt und -gravur betrieben und mich mit Drohnenprojekten besch채ftigt. Sportlich habe ich in den USA Baseball und Tennis gespielt und sp채ter in Bern ein Baseballteam trainiert. Andere Sportarten wie Skifahren, Segeln, Jagen oder Fischen habe ich in der Schweiz nicht ausge체bt.
 
-![]()
+![](img_0631.jpeg)
 
 ![]()
