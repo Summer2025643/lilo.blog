@@ -6,10 +6,9 @@ pinned = false
 image = "img_0622.jpeg"
 description = "Kontinente überqueren: Die vielfältigen Karrieren von Gerald Jackson "
 +++
-> „Ich habe gearbeitet, wo immer ich konnte, um über die Runden zu kommen und mich durchzuschlagen“- Gerald Jackson
-
-\
 Gerald Jackson, mein Grossvater, wurde im Jahr 1953 in America geboren und fing seine erste Arbeit im Alter von 19 bei der Amerikanischen Air Force an. Durch den öfteren Berufwechsel, konnte er in über 37 Ländern arbeiten und sie dadurch besuchen.
+
+> „Ich habe gearbeitet, wo immer ich konnte, um über die Runden zu kommen und mich durchzuschlagen“- Gerald Jackson
 
 **Was war Ihr erster Job?** \
 Mein erster Job war mit 19 Jahren bei der United States Air Force während des Vietnamkrieges. Ich diente hauptsächlich in Deutschland und New Mexico als Facharzt für Sanitätsdienst. Danach ging ich zur Universität in Ohio und studierte dort fünf Jahre lang.
