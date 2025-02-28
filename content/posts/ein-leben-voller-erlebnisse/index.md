@@ -1,9 +1,10 @@
 +++
-title = "Ein Leben voller Erlebnisse"
+title = "Kontinente überqueren: Die vielfältigen Karrieren von Gerald Jackson"
 date = "2025-02-21"
 draft = false
 pinned = false
 image = "img_0622.jpeg"
+description = "Ein Leben voller Erlebnisse"
 +++
 > „Ich habe gearbeitet, wo immer ich konnte, um über die Runden zu kommen und mich durchzuschlagen“- Gerald Jackson
 
