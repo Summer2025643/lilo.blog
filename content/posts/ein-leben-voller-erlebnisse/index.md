@@ -1,5 +1,5 @@
 +++
-title = "Kontinente überqueren: Die vielfältigen Karrieren von Gerald Jackson"
+title = "Kontinente überqueren: Die vielfältigen Karrieren von Gerald Jackson H2"
 date = "2025-02-21"
 draft = false
 pinned = false
