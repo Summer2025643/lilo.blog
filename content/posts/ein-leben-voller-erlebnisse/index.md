@@ -22,6 +22,8 @@ Ich musste mich für diesen Job verpflichten, um der Einberufung nach Vietnam zu
 **Wie viele Jobs haben Sie ungefähr gehabt?** \
 Ich habe ungefähr 34 verschiedene Jobs gehabt, darunter viele Teilzeitjobs an der Universität, Lehrer in Ohio, Arbeiten in der nationalen Sicherheit in Washington D.C., Marketing- und Leitungspositionen in der Schweiz und internationale Tätigkeiten.
 
+> “Wir lebten in verschiedenen Ländern und mussten uns ständig anpassen“- Gerald Jackson
+
 **Welcher Ihrer Jobs war ein Wendepunkt für Ihre Identität und warum?** \
 Der Wendepunkt für meine Identität war die Zeit bei der US-Luftwaffe. Der Wechsel von Zuhause ins Militär bedeutete, alles Vertraute zurückzulassen und sich psychologisch anzupassen. Dies prägte meine Identität nachhaltig. Später beeinflussten verschiedene Jobs und Reisen mein Verständnis der Welt und meine Rolle darin. Mein christlicher Hintergrund lieferte die meisten Antworten und ermöglichte es mir, meine Talente in Musik, Gottesdienstleitung und Lehre einzusetzen. Verschiedene Veranstaltungen und Engagements weltweit haben meine Identität ebenfalls verändert.
 
