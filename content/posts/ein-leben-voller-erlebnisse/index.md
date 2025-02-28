@@ -56,6 +56,8 @@ Meine Identität wurde durch meine Jobs in der Schweiz nicht stark beeinflusst, 
 **Wie haben Sie es erreicht, Beruf und Familie unter einen Hut zu bringen, besonders in jungen Jahren?**\
 Der wichtigste Übergang in meinem Leben war eine spirituelle Wiedergeburt während meiner Universitätszeit in Ohio. Diese Veränderung half mir, eine neue Perspektive auf meine Identität und den Sinn des Lebens zu gewinnen. Mit der Unterstützung meiner Frau und unserer gemeinsamen spirituellen Reise konnten wir unser Leben ausbalancieren und Familie und Beruf unter einen Hut bringen. Die Veränderung, mein Leben Christus zu widmen, machte einen großen Unterschied.
 
+> "Wir lebten in verschiedenen Ländern und mussten uns anpassen."- Gerald Jackson
+
 **Durch welchen Job haben Sie am meisten gelernt und wie kam es dazu?**\
 Ich habe am meisten durch meinen Job im Bereich der nationalen Sicherheit gelernt, da ich dort viele verschiedene Technologien kennenlernen musste, darunter Atom- und Nukleartechnologien. Es war ein intensives und fantastisches Lernumfeld. Auch in der Schweiz musste ich ständig neue Dinge lernen, insbesondere in der Telekommunikation und bei der Arbeit mit Computern. Meine Flexibilität und Lernbereitschaft halfen mir, diese Herausforderungen zu meistern.
 
