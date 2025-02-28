@@ -5,9 +5,12 @@ draft = false
 pinned = false
 image = "img_0622.jpeg"
 +++
+> „Ich habe gearbeitet, wo immer ich konnte, um über die Runden zu kommen und mich durchzuschlagen“- Gerald Jackson
+
+\
 Gerald Jackson, mein Grossvater, wurde im Jahr 1953 in America geboren und fing seine erste Arbeit im Alter von 19 bei der Amerikanischen Air Force an. Durch den öfteren Berufwechsel, konnte er in über 37 Ländern arbeiten und sie dadurch besuchen.
 
-Was war Ihr erster Job? \
+**Was war Ihr erster Job?** \
 Mein erster Job war mit 19 Jahren bei der United States Air Force während des Vietnamkrieges. Ich diente hauptsächlich in Deutschland und New Mexico als Facharzt für Sanitätsdienst. Danach ging ich zur Universität in Ohio und studierte dort fünf Jahre lang.
 
 Hat es Ihnen gefallen? Und warum? \
@@ -21,10 +24,6 @@ Ich habe ungefähr 34 verschiedene Jobs gehabt, darunter viele Teilzeitjobs an d
 
 Welcher Ihrer Jobs war ein Wendepunkt für Ihre Identität und warum? \
 Der Wendepunkt für meine Identität war die Zeit bei der US-Luftwaffe. Der Wechsel von Zuhause ins Militär bedeutete, alles Vertraute zurückzulassen und sich psychologisch anzupassen. Dies prägte meine Identität nachhaltig. Später beeinflussten verschiedene Jobs und Reisen mein Verständnis der Welt und meine Rolle darin. Mein christlicher Hintergrund lieferte die meisten Antworten und ermöglichte es mir, meine Talente in Musik, Gottesdienstleitung und Lehre einzusetzen. Verschiedene Veranstaltungen und Engagements weltweit haben meine Identität ebenfalls verändert.
-
- 
-
- 
 
 Welcher Job hat Ihnen am besten gefallen? \
 Mein Lieblingsjob war in Washington, D.C. unter Präsident Ronald Reagan. Ich beobachtete Entwicklungen im Nahen Osten und schrieb tägliche Berichte für den Präsidenten. Ich arbeitete im Bereich der nationalen Sicherheit und reiste viel. Es war eine dynamische und prägende Zeit meines Lebens. Dieser Job hat mein Leben wirklich verändert.
@@ -49,3 +48,7 @@ Ich habe einen Bachelor-Abschluss in wissenschaftlicher Ausbildung, was mir erm�
 
 Welche Hobbys und Sportarten haben Sie ausgeübt?\
 Ich habe eine starke kreative Energie und habe mich vor allem der Musik gewidmet, neue Instrumente ausprobiert und Gottesdienste in verschiedenen Kirchen geleitet. Neben der Musik habe ich Chilischoten angebaut und Würstchen hergestellt. Ich habe auch Laserschnitt und -gravur betrieben und mich mit Drohnenprojekten beschäftigt. Sportlich habe ich in den USA Baseball und Tennis gespielt und später in Bern ein Baseballteam trainiert. Andere Sportarten wie Skifahren, Segeln, Jagen oder Fischen habe ich in der Schweiz nicht ausgeübt.
+
+![]()
+
+![]()
