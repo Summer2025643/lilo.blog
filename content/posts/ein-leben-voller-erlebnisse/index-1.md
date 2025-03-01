@@ -3,7 +3,7 @@ title = "Ein Leben voller Erlebnisse "
 date = "2025-02-28"
 draft = false
 pinned = false
-tags = ["#Reportage", "#interview", "#GeraldJackson"]
+tags = ["Reportage", "interview", "GeraldJackson"]
 image = "img_0622.jpeg"
 description = "Kontinente überqueren: Die vielfältigen Karrieren von Gerald Jackson "
 +++
